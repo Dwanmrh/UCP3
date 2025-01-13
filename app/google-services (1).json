@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "502356571653",
+    "project_id": "pam-firestore",
+    "storage_bucket": "pam-firestore.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502356571653:android:6a636854b80452449e8e6c",
+        "android_client_info": {
+          "package_name": "com.dwan.firestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6DafmPoa-Wbkxx2oCsaIqn225tk3uX_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
